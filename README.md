@@ -1,5 +1,7 @@
 # WELCOME 👋 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
-- 👋 Hi, I’m Peace Sandy
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=Hi+I'm+Peace+Sandy+!;" </p>
+    
 - 👀 I’m interested in Open source projects, Technical Documentation and Frontend Technologies.
 - 🌱 I’m currently learning Javascript and Reactjs.
 - 💞️ I’m looking to collaborate on Open source projects, hackathons, internships, and entry-level opportunities.
