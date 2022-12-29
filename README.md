@@ -1,4 +1,4 @@
-# WELCOME 👋
+# WELCOME 👋 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
 - 👋 Hi, I’m Peace Sandy
 - 👀 I’m interested in Open source projects, Technical Documentation and Frontend Technologies.
 - 🌱 I’m currently learning Javascript and Reactjs.
