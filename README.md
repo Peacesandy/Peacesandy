@@ -29,8 +29,22 @@ Tools
 [![Peace Sandy's github stats](https://github-readme-stats.vercel.app/api?username=Peacesandy)](https://github.com/Peacesandy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peacesandy&layout=compact)](https://github.com/Peacesandy)
-
-## 👀 Profile views
+    
+    
+    
+## Latest Blog Articles 📝
+    
+    
+  <a href="https://peacesandy.hashnode.dev/the-difference-between-props-and-state-in-react" title="The Difference between Props and State in React">
+ <img src="https://peacesandy.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1665777018533%2FQz4A61oFz.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Props and State" width="250px" align="left"/>
+      </a>
+        <a href="https://peacesandy.hashnode.dev/the-difference-between-props-and-state-in-react" title="React">
+    <strong>The Difference Between Props and State in React</strong>
+  </a>
+      
+    
+    
+ #  👀 Profile views
 ![Visitor Count](https://profile-counter.glitch.me/{Peacesandy}/count.svg) 
 
 
