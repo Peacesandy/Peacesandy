@@ -30,6 +30,9 @@ Tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peacesandy&layout=compact)](https://github.com/Peacesandy)
 
+## 👀 Profile views
+![Visitor Count](https://profile-counter.glitch.me/{Peacesandy}/count.svg) 
+
 
 
 
