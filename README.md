@@ -11,19 +11,11 @@
 
 
 
-Technical skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   </p>
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=336791)
 
-Tools
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=61DAFB)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=764ABC)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=61DAFB)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=61DAFB)
+ 
 
 
 [![Peace Sandy's github stats](https://github-readme-stats.vercel.app/api?username=Peacesandy)](https://github.com/Peacesandy)
@@ -32,16 +24,7 @@ Tools
     
     
     
-## Latest Blog Articles 📝
-    
-    
-  <a href="https://peacesandy.hashnode.dev/the-difference-between-props-and-state-in-react" title="The Difference between Props and State in React">
- <img src="https://peacesandy.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1665777018533%2FQz4A61oFz.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Props and State" width="250px" align="left"/>
-      </a>
-        <a href="https://peacesandy.hashnode.dev/the-difference-between-props-and-state-in-react" title="React">
-    <strong>The Difference Between Props and State in React</strong>
-  </a>
-      
+
     
     
  #  👀 Profile views
