@@ -16,13 +16,16 @@
 
 
  
+  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peacesandy&theme=city_lights) |
+| :---: |  
 
 
 [![Peace Sandy's github stats](https://github-readme-stats.vercel.app/api?username=Peacesandy)](https://github.com/Peacesandy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peacesandy&layout=compact)](https://github.com/Peacesandy)
+
     
-    
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peacesandy&theme=radical&hide_border=true"/>
+
     
 
     
