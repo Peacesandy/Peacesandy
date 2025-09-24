@@ -1,13 +1,15 @@
-# WELCOME 👋 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=Hi+I'm+Peace+Sandy+!;" </p>
-    
- # <h3 align="center">Frontend Developer || UI Designer || Technical Writer</h3>
+# Hi I'm Peace Sandy 👋 
+
+# <h3> Software Documentation Engineer || Technical Writer || Open Source Contributor </h3>
  
-- 💞️ I Create pixel-perfect designs and highly responsive websites.
-- 👀 I’m interested in Open source projects, Technical Documentation and Frontend Technologies.
-- 🌱 I’m currently learning Javascript and Reactjs.
-- 💞️ I’m looking to collaborate on Open source projects, hackathons, internships, and entry-level opportunities.
+I bridge the gap between complex software and its users by turning technical details into clear, actionable stories that drive developer adoption, accelerate onboarding, and help teams ship faster.
+
+With a foundation in software engineering, I make technical concepts clear, concise, and easy to understand. Whether it’s documentation, tutorials, or product messaging, my work is grounded in real-world, hands-on experience.
+
+As a Technical Documentation Engineer, I specialize in developer experience, creating end-user guides, UI/UX documentation, technical blog posts, FAQs, API documentation, release notes, and more. My focus is on docs-as-code workflows and open-source contributions. I create content that simplifies complex tools while building trust between products and the developers who use them. I also write beginner-friendly tutorials that have helped thousands of learners take their first steps into tech.
+
+Beyond documentation, I enjoy contributing to open-source projects and crafting messaging that resonates with engineering teams. Whether it’s creating impactful content or building communities around products, I work at the intersection of technical depth and human connection.
+
 - 📫 How to reach me peacesandy04@gmail.com. 
 - 😊 Pronouns: She/Her
 - 🏢 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
